@@ -7,10 +7,10 @@ import Address from "../../domain/entity/address";
 import ProductRepository from "./product.repository";
 import Product from "../../domain/entity/product";
 import OrderItem from "../../domain/entity/order_item";
-import OrderModel from "../db/sequelize/model/order.model";
 import OrderItemModel from "../db/sequelize/model/order-item.model";
 import Order from "../../domain/entity/order";
 import OrderRepository from "./order.repository";
+import OrderModel from "../db/sequelize/model/order.model";
 
 
 describe("Order repository test", () => {
