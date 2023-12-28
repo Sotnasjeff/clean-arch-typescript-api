@@ -46,7 +46,7 @@ describe("Customer unit tests", () => {
             const customer = new Customer("1", "Customer 1")
 
             customer.activate();
-        }).toThrow("Address is mandatory to active a customer");
+        }).toThrow("Address is mandatory to activate a customer");
         
     })
 
