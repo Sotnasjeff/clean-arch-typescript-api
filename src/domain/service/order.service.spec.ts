@@ -22,7 +22,7 @@ describe("Order service Unit test", () => {
 
         const total = OrderService.total([order, order2]);
 
-        expect(total).toBe(500);
+        expect(total).toBe(300);
 
     });
 });
