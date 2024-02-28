@@ -1,6 +1,6 @@
 # Clean Architecture
 
-This is a project in order to exercise the knowledges gained watching the FullCycle course about DDD.
+This is a project in order to exercise the knowledges gained watching the FullCycle course about Clean Architecture.
 
 ### 📋 Prerequirements
 
@@ -12,6 +12,14 @@ Typescript: 5.3.2 or above
 Jest: 29.7.0
 
 ```
+
+After installed the technologies above, type on your terminal:
+
+```
+npm install
+```
+
+This command is going to install all the dependencies in this project in order to run it
 
 ## ⚙️ Tests
 
