@@ -1,8 +1,8 @@
-# DDD tatics and patterns
+# Clean Architecture
 
 This is a project in order to exercise the knowledges gained watching the FullCycle course about DDD.
 
-### 📋 Pré-requisitos
+### 📋 Prerequirements
 
 In order to run this project, you should use
 
