@@ -30,6 +30,6 @@ npm run test
 
 ## 🛠️ Built with
 
-* [Typescript](https://www.typescriptlang.org/docs/) - The language 
+* [Typescript](https://www.typescriptlang.org/docs/) - The language used in thiss project
 * [NodeJS](https://nodejs.org/en) - Used to manage Javascript dependencies
 * [Jest](https://jestjs.io/pt-BR/) - Framework used for test
